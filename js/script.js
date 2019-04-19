@@ -2,5 +2,5 @@ type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jq
 $("#text").append("this is so freaking cool.");
 
 $(document).ready(function() {
-  //code
+  $("#text").append("this is so freaking cool.");
 });
